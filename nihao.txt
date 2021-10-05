@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 beijing
 hello
+=======
+>>>>>>> parent of b19ccb4 (add test revert)
 tianjin
 zhongguo beijing ni
